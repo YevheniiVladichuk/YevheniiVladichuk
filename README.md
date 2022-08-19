@@ -7,6 +7,12 @@ I improve my coding skills every day.
 
 Skills: Swift | Xcode
 
+- 🔭 I’m currently working on my own pet project 
+- 🌱 I’m currently learning SwiftUI
+- 😎 I’m looking to find my first position as an iOS developer
+- 📫 How to reach me: Email - gorillakong@icloud.com | Instagram - (https://instagram.com/jaxon.gorilla?igshid=YmMyMTA2M2Y=) 
+
+
 
 
 
