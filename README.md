@@ -7,8 +7,8 @@ I improve my coding skills every day.
 
 Skills: Swift | Xcode
 
-![Epam]!(https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/IT_Fundamentals_for_Ukrainian_Switchers_2022.pdf)
-![Coursera]!(https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera%20E52B7QNW2F48.pdf)
+![Epam](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/IT_Fundamentals_for_Ukrainian_Switchers_2022.pdf)
+![Coursera](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera%20E52B7QNW2F48.pdf)
 
 
 
