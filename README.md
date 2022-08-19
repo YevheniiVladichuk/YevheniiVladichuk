@@ -12,7 +12,9 @@ Skills: Swift | Xcode
 - 😎 I’m looking to find my first position as an iOS developer
 - 📫 How to reach me: Email - gorillakong@icloud.com | Instagram - (https://instagram.com/jaxon.gorilla?igshid=YmMyMTA2M2Y=) 
 
-![Epam](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Screenshot%202022-08-19%20at%2017.22.24.png)
+![EPAM](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/EPAM.png)
+![Coursera](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera.png)
+(https://coursera.org/share/15d5896631bcb2a142d77a3faa0b4bde)
 
 
 
