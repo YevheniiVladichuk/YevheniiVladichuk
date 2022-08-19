@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Yevhenii
+#### I'm a Self-taught iOS Developer
+I was a professional sportsman till injury 🏆
+For now I have learning iOS development from marth 2022 💻
+I have finished "IT Fundamentals" by EPAM and "Introduction to Programming in Swift 5" by Coursera courses, also I have finished "Develop in SWIFT Fundamentals" book course by Apple. I'm familiar with OOP, UIKit, MVC and Firebase.
+I improve my coding skills every day.
 
-<!--
-**YevheniiVladichuk/YevheniiVladichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Swift | Xcode
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
