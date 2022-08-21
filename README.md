@@ -2,7 +2,7 @@
 #### I'm a Self-taught iOS Developer
 I was a professional sportsman till injury 🏆
 For now I have learning iOS development from march 2022 💻
-I have finished "IT Fundamentals" by EPAM and "Introduction to Programming in Swift 5" by Coursera courses, also I have finished "Develop in SWIFT Fundamentals" book-course by Apple. I'm familiar with OOP, UIKit, MVC and Firebase.
+I have finished "IT Fundamentals" by EPAM and "Introduction to Programming in Swift 5" by LearnQuest courses, also I have finished "Develop in SWIFT Fundamentals" book-course by Apple. I'm familiar with OOP, UIKit, MVC and Firebase.
 I improve my coding skills every day.
 
 Skills: Swift | Xcode
@@ -13,7 +13,7 @@ Skills: Swift | Xcode
 - 📫 How to reach me: Email - gorillakong@icloud.com | Instagram - (https://instagram.com/jaxon.gorilla?igshid=YmMyMTA2M2Y=) 
 
 ![EPAM](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/EPAM.png)
-![Coursera](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera.png)
+![LearnQuest](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera.png)
 (https://coursera.org/share/15d5896631bcb2a142d77a3faa0b4bde)
 
 
