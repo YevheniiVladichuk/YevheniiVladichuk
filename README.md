@@ -8,7 +8,7 @@ Yevhenii Vladichuk
 🔭 "I'm currently  taking a course on Udemy.
 🌱 I'm currently learning SwiftUI.
 😎 I'm actively seeking my first position as an iOS developer.
-📫 To contact me, please email me at yevhenii.vladichuk@gmail.com or find me on Instagram "(https://instagram.com/jaxon.gorilla?igshid=YmMyMTA2M2Y=) 
+📫 To contact me, please email me at yevhenii.vladichuk@gmail.com or find me on Instagram (https://instagram.com/jaxon.gorilla?igshid=YmMyMTA2M2Y=)
 
 ![EPAM](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/EPAM.png)
 ![LearnQuest](https://github.com/YevheniiVladichuk/YevheniiVladichuk/blob/main/Coursera.png)
