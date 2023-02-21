@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yevhenii
 #### I'm a Self-taught iOS Developer
-I was a professional athlete until I suffered an injury 🏆 Currently, I've been learning iOS development since July 2022 💻. I've completed the "IT Fundamentals" course by EPAM and the "Introduction to Programming in Swift 5" course on Coursera, as well as the "Develop in Swift Fundamentals" book-course by Apple. I am familiar with OOP, UIKit, MVC, and Firebase, and I work to improve my coding skills every day.
+I was a professional athlete until I suffered an injury 🏆 Currently, I've been learning iOS development since June 2022 💻. I've completed the "IT Fundamentals" course by EPAM and the "Introduction to Programming in Swift 5" course on Coursera, as well as the "Develop in Swift Fundamentals" book-course by Apple. I am familiar with OOP, UIKit, MVC, and Firebase, and I work to improve my coding skills every day.
 
 Skills: Swift | Xcode
 
